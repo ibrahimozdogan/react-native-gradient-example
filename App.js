@@ -6,7 +6,7 @@ export default function App () {
     return (
         <Background>
             <View style={styles.container}>
-                <Text>Gradient example in react-native-svg!</Text>
+                <Text>Gradient example in react-native!</Text>
             </View>
         </Background>
     );
